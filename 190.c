@@ -1,5 +1,5 @@
 /*author:HULK
-* data:2017-04-14 20:05:33
+* date:2017-04-14 20:05:33
 */
 
 /*Reverse bits of a given 32 bits unsigned integer.

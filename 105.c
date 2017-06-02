@@ -1,5 +1,5 @@
 /*author:HULK
-data:2017-04-13 20:43:23
+date:2017-04-13 20:43:23
 
 Given preorder and inorder traversal of a tree, construct the binary tree.
 
